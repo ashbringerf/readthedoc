@@ -1,22 +1,19 @@
-Welcome to Lumache's documentation!
+记录
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+google proposed HDRNet
+`github repo <https://github.com/mgharbi/hdrnet_legacy>`_
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+
+:doc:`hdrnet`
+:ref:`image filtering` 
 
 .. note::
-
-   This project is under active development.
+   2022 05 09 updated.
 
 Contents
 --------
-
 .. toctree::
 
-   usage
-   api
+   hdrnet
+   image filtering
