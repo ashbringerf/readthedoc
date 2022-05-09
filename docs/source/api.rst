@@ -4,4 +4,4 @@ API
 .. autosummary::
    :toctree: generated
 
-   lumache
+   BullDong's notebook
