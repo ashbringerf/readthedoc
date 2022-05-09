@@ -1,4 +1,4 @@
-Usage
+Syntax example
 =====
 
 .. _installation:
