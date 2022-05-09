@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'BullDongs notebook'
+project = 'notebook'
 copyright = '2022, FengTian'
 author = 'FengTian'
 
